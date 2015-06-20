@@ -13,6 +13,6 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subj
 
 What you will find in this repository are
-1.tidy_data - which we get in step 5
-2. Read.me - which is this 
-3. run_analysis.R  - R code which creates the tidy data.
+
+1. Read.me - which is this 
+2. run_analysis.R  - R code which creates the tidy data.
